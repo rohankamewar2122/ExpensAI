@@ -22,6 +22,7 @@ ExpensAI is a modern, full-stack web application designed to help users intellig
 * **Category:** Technology
 * **Framework :** Next.js (App Router)
 * **UI:** Shadcn UI, Tailwind CSS, Recharts
+* **AI API:** Gemini AI
 * **Authentication:** Clerk
 * **Database:** Supabase (Postgres), Prisma (ORM)
 * **Security:** Arcjet
