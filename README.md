@@ -30,11 +30,11 @@ ExpensAI is a modern, full-stack web application designed to help users intellig
 * **Email Service:** React Email, Resend
 
 ## PROJECT UI
-![App UI - Landing Page](assets/website-ui/landing_page.png)
-![App UI - Features](assets/website-ui/features.png)
-![App UI - Dashboard](assets/website-ui/dashboard.png)
-![App UI - User Authentication](assets/website-ui/user_authentication.png)
-![App UI - Create Account](assets/website-ui/create_account.png)
-![App UI - Add Transaction Expense](assets/website-ui/add_transaction_expense.png)
-![App UI - Add Transaction Income](assets/website-ui/add_transaction_income.png)
-![App UI - Transactions](assets/website-ui/transactions.png)
+![App UI - Landing Page](./public/ui-images/landing_page.png)
+![App UI - Features](./public/ui-images/features.png)
+![App UI - Dashboard](./public/ui-images/dashboard.png)
+![App UI - User Authentication](./public/ui-images/user_authentication.png)
+![App UI - Create Account](./public/ui-images/create_account.png)
+![App UI - Add Transaction Expense](./public/ui-images/add_transaction_expense.png)
+![App UI - Add Transaction Income](./public/ui-images/add_transaction_income.png)
+![App UI - Transactions](./public/ui-images/transactions.png)
