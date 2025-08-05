@@ -28,3 +28,13 @@ ExpensAI is a modern, full-stack web application designed to help users intellig
 * **Security:** Arcjet
 * **Background Jobs:** Inngest
 * **Email Service:** React Email, Resend
+
+## PROJECT UI
+![App UI - Landing Page](assets/website-ui/landing_page.png)
+![App UI - Features](assets/website-ui/features.png)
+![App UI - Dashboard](assets/website-ui/dashboard.png)
+![App UI - User Authentication](assets/website-ui/user_authentication.png)
+![App UI - Create Account](assets/website-ui/create_account.png)
+![App UI - Add Transaction Expense](assets/website-ui/add_transaction_expense.png)
+![App UI - Add Transaction Income](assets/website-ui/add_transaction_income.png)
+![App UI - Transactions](assets/website-ui/transactions.png)
